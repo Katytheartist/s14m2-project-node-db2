@@ -9,7 +9,7 @@ const getById = (id) => {
 }
 
 const create = () => {
-  // DO YOUR MAGIC
+  
 }
 
 module.exports = {
